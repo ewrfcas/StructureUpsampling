@@ -1,0 +1,16 @@
+input_size: 256
+output_size: 512
+wireframe_th: 0.925
+
+train_flist: ./data/train.txt
+val_flist: ./data/val.txt
+test_flist: ./data/test.txt
+
+lr: 3.0e-4
+max_iters: 4000
+batch_size: 32
+sample_size: 16
+
+save_interval: 500
+sample_interval: 100
+eval_interval: 500
