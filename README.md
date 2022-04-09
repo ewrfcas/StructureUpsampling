@@ -7,7 +7,7 @@ Simple CNN for line and edge upsampling worked for [ZITS](https://github.com/DQi
 
 ## Test
 
-The pretrained model can be downloaded in [ZITS](https://github.com/DQiaole/ZITS_inpainting).
+The pretrained model can be downloaded in https://drive.google.com/drive/folders/1Dg_6ZCAi0U3HzrYgXwr9nSaOLnPsf9n-?usp=sharing.
 
 
 ## Train
