@@ -5,6 +5,7 @@ wireframe_th: 0.925
 train_flist: ./data/train.txt
 val_flist: ./data/val.txt
 test_flist: ./data/test.txt
+wireframe_path: ./data/wireframes
 
 lr: 3.0e-4
 max_iters: 4000

@@ -16,7 +16,7 @@ Note that only line(wireframe) is used as the training target. And the trained m
 
 1. Preprocess and get pkl of lines(wireframes) from images with [LSM-HAWP](https://github.com/ewrfcas/MST_inpainting).
 
-2. Setting image file lists in configs/config.yml
+2. Setting image file lists (train.txt, val.txt, test.txt) and wireframe path (wireframe_path) in configs/config.yml
 
 3. python trian.py
 
